@@ -1,0 +1,2 @@
+FLASK_APP=alliance.py
+FLASK_ENV=development
